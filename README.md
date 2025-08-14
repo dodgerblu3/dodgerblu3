@@ -1,23 +1,16 @@
 ## Hi there 👋
+
 I'm ...
+
 - high school student
 - interested in Web development and Game development.
 
 ## 🛠️ Skill
 
-<img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saladmaki&layout=compact&theme=vue-dark" />
+<img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodgerblu3&layout=compact&theme=vue-dark" />
 
-<!--
-**saladmaki/saladmaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I can make 3D models with Blender.
 
-Here are some ideas to get you started:
+<img src="./assets/small-room.jpg" alt="3d-model-image" width="300px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is an image of 3D model I made.
